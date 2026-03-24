@@ -138,24 +138,3 @@ Marques Rubenildo
 📄 Licença
 
 Uso educacional e experimental.
-
-💡 Observação final (importante)
-
-Seu projeto tem algo raro:
-👉 mistura programação + modelagem científica + visualização
-
-Se você evoluir isso com:
-
-explicação teórica mais profunda
-
-interface interativa
-
-validação com literatura
-
-👉 isso pode facilmente virar:
-
-projeto acadêmico
-
-portfólio técnico forte
-
-ou até produto educacional
